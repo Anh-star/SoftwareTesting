@@ -26,7 +26,7 @@ StudentProject/
 ├── src/
 │   └── StudentAnalyzer.java
 ├── test/
-│   └── StudentAnalyzerTest.java
+    └── StudentAnalyzerTest.java
 ```
 
 #### 5. Cách chạy kiểm thử đơn vị
