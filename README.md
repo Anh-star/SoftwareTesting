@@ -32,3 +32,5 @@ StudentProject/
 
 #### 5. Cách chạy kiểm thử đơn vị
 Vào file `StudentAnalyzerTest.java`, nhấn nút Play (Run Tests) để thực thi.
+
+## CHƯƠNG 2: Bài tập thực hành kiểm thử với Cypress
