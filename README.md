@@ -25,6 +25,7 @@ Nếu danh sách trống hoặc không có điểm hợp lệ, kết quả trả
 StudentProject/
 ├── src/
 │   └── StudentAnalyzer.java
+│   └── Main.java
 ├── test/
     └── StudentAnalyzerTest.java
 ```
